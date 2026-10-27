@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3364,
+          52.5312
+        ]
+      },
+      "properties": {
+        "source_id": "I-B14a",
+        "title": "Bebauungsplan I-B14a: Industrie- und Gewerbegebiet Moabit West Umstrukturierung",
+        "signal_type": "urban_industrial_reconversion",
+        "confidence": 1.0,
+        "district": "Mitte (Ortsteil Moabit)",
+        "publication_date": "2026-09-15",
+        "easting_25832": 794086.743,
+        "northing_25832": 5828962.67,
+        "location_status": "resolved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2351,
+          52.5458
+        ]
+      },
+      "properties": {
+        "source_id": "SPA-88-UW",
+        "title": "Bebauungsplan SPA-88-UW: Errichtung 110kV/380kV Umspannwerk Haselhorst & Netzverstärkung",
+        "signal_type": "high_power_substation_alert",
+        "confidence": 1.0,
+        "district": "Spandau (Ortsteil Haselhorst)",
+        "publication_date": "2026-10-02",
+        "easting_25832": 787124.673,
+        "northing_25832": 5830177.091,
+        "location_status": "resolved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.538,
+          52.551
+        ]
+      },
+      "properties": {
+        "source_id": "MZ-B202-DC",
+        "title": "Bebauungsplan MZ-B202-DC: CleanTech Business Park - Neubau Hyperscale & Edge Rechenzentrum",
+        "signal_type": "edge_dc_filing",
+        "confidence": 1.0,
+        "district": "Marzahn-Hellersdorf",
+        "publication_date": "2026-10-18",
+        "easting_25832": 807612.949,
+        "northing_25832": 5832004.894,
+        "location_status": "resolved"
+      }
+    }
+  ]
+}

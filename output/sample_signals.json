@@ -1,0 +1,116 @@
+[
+  {
+    "source_id": "I-B14a",
+    "title": "Bebauungsplan I-B14a: Industrie- und Gewerbegebiet Moabit West Umstrukturierung",
+    "signal_type": "urban_industrial_reconversion",
+    "confidence_score": 1.0,
+    "publication_date": "2026-09-15",
+    "source_url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/stadtplanung/bebauungsplaene/bplan.html?id=I-B14a",
+    "district": "Mitte (Ortsteil Moabit)",
+    "description": "Planungsziele und städtebauliche Begründung Ziel des Bebauungsplans ist die städtebauliche Neuordnung und Konversion einer ehemals industriell\n                genutzten Brachfläche in ein modernes Gewerbe- und Technologieareal (Gewerbegebiet GI/GE nach BauNVO).\n                Vorgesehen sind großflächige Revitalisierungen, Schaffung von Flächen für emissionsarme Produktion\n                sowie Vorbereitung von Trassen zur Energieversorgung.",
+    "raw_lat": 52.5312,
+    "raw_lon": 13.3364,
+    "easting_25832": 794086.743,
+    "northing_25832": 5828962.67,
+    "geometry_wkt": "POINT(794086.743 5828962.670)",
+    "location_status": "resolved",
+    "matched_indicators": {
+      "urban_industrial_reconversion": [
+        "brachfläche",
+        "gi/ge",
+        "konversion",
+        "umstrukturierung",
+        "gewerbegebiet"
+      ]
+    },
+    "validation_notes": [],
+    "ingested_at": "2026-10-27T09:56:58.777700+00:00"
+  },
+  {
+    "source_id": "SPA-88-UW",
+    "title": "Bebauungsplan SPA-88-UW: Errichtung 110kV/380kV Umspannwerk Haselhorst & Netzverstärkung",
+    "signal_type": "high_power_substation_alert",
+    "confidence_score": 1.0,
+    "publication_date": "2026-10-02",
+    "source_url": "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/stadtentwicklungsamt/bebauungsplaene/bplan.html?id=SPA-88-UW",
+    "district": "Spandau (Ortsteil Haselhorst)",
+    "description": "Planungsziele und städtebauliche Begründung Der Verteilnetzbetreiber plant zur Deckung des sprunghaft ansteigenden Strombedarfs der gewerblichen\n                Großabnehmer und der Dekarbonisierung die Errichtung eines neuen gasisolierten 110-kV/380-kV Hochleistungs-Umspannwerks\n                inklusive Anschluss an das Übertragungsnetz. Sicherung von Sonderbauflächen für Energieversorgungsanlagen\n                sowie Kabeltrassen und Großtransformatoren.",
+    "raw_lat": 52.5458,
+    "raw_lon": 13.2351,
+    "easting_25832": 787124.673,
+    "northing_25832": 5830177.091,
+    "geometry_wkt": "POINT(787124.673 5830177.091)",
+    "location_status": "resolved",
+    "matched_indicators": {
+      "high_power_substation_alert": [
+        "380kv",
+        "110kv",
+        "netzverstärkung",
+        "380-kv",
+        "umspannwerk",
+        "110-kv",
+        "übertragungsnetz"
+      ]
+    },
+    "validation_notes": [],
+    "ingested_at": "2026-10-27T09:56:58.798592+00:00"
+  },
+  {
+    "source_id": "MZ-B202-DC",
+    "title": "Bebauungsplan MZ-B202-DC: CleanTech Business Park - Neubau Hyperscale & Edge Rechenzentrum",
+    "signal_type": "edge_dc_filing",
+    "confidence_score": 1.0,
+    "publication_date": "2026-10-18",
+    "source_url": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/stadtentwicklungsamt/bebauungsplaene/bplan.html?id=MZ-B202-DC",
+    "district": "Marzahn-Hellersdorf",
+    "description": "Planungsziele und städtebauliche Begründung Ausweisung eines Sondergebietes Rechenzentrum (SO Datacenter) zur Errichtung eines hocheffizienten\n                Edge Data Center Campus und Cloud-Infrastrukturgebäudes mit bis zu 60 MW IT-Last, Abwärmenutzung\n                zur Einspeisung in das Berliner Fernwärmenetz sowie eigener Notstromdiesel- und Batteriespeicheranlage.",
+    "raw_lat": 52.551,
+    "raw_lon": 13.538,
+    "easting_25832": 807612.949,
+    "northing_25832": 5832004.894,
+    "geometry_wkt": "POINT(807612.949 5832004.894)",
+    "location_status": "resolved",
+    "matched_indicators": {
+      "edge_dc_filing": [
+        "hyperscale",
+        "rechenzentrum",
+        "datacenter",
+        "so datacenter",
+        "data center",
+        "it-last"
+      ]
+    },
+    "validation_notes": [],
+    "ingested_at": "2026-10-27T09:56:58.800718+00:00"
+  },
+  {
+    "source_id": "NK-ERR-99",
+    "title": "Gewerbestandort Grenzallee Sanierung & Trafostation",
+    "signal_type": "high_power_substation_alert",
+    "confidence_score": 1.0,
+    "publication_date": null,
+    "source_url": "https://www.berlin.de/ba-neukoelln/bebauungsplaene/bplan.html?id=NK-ERR-99",
+    "district": "Neukölln",
+    "description": "Planungsziele und städtebauliche Begründung Sanierung von Bestandsgewerbe sowie Errichtung einer neuen Transformator-Station\n                zur Einspeisung.",
+    "raw_lat": null,
+    "raw_lon": null,
+    "easting_25832": null,
+    "northing_25832": null,
+    "geometry_wkt": null,
+    "location_status": "invalid",
+    "matched_indicators": {
+      "high_power_substation_alert": [
+        "trafostation",
+        "transformator"
+      ],
+      "urban_industrial_reconversion": [
+        "gewerbestandort"
+      ]
+    },
+    "validation_notes": [
+      "Invalid publication date format: 'ungültig-datum'",
+      "Spatial error: Invalid coordinate format: lat='CORRUPT_LAT', lon='CORRUPT_LON'"
+    ],
+    "ingested_at": "2026-10-27T09:56:58.804757+00:00"
+  }
+]
